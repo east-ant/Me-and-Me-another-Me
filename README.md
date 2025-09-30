@@ -2,7 +2,6 @@
 
 **3D 타임루프 퍼즐 게임**  
 📅 개발 기간: 2025.05.13 - 2025.06.22  
-🔗 [GitHub Repository](https://github.com/east-ant/Me-and-Me-another-Me)
 
 ## 📖 프로젝트 개요
 
